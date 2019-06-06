@@ -9,6 +9,11 @@
     font-family: Arial;
 }
 
+div {
+	background: pink;
+}
+		
+
 .container div {
     flex-basis: 33.3%;
     padding: 5px 10px;
